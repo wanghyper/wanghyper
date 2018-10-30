@@ -1,2 +1,2 @@
-# wanghyper page
-my page at github
+# wanghyper's homepage
+my homepage at github
